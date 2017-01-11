@@ -1,1 +1,0 @@
-# Getting_and_cleaning_data_course_project-run_analysis.R
